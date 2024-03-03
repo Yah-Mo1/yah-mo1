@@ -1,4 +1,4 @@
-![Black Modern Minimalist Simple Technology Banner (1)](https://github.com/Yah-Mo1/Yah-Mo1-/assets/90518489/bdf33255-4c61-4eee-9a30-7ba21cfd7716)
+![Black Modern Minimalist Simple Technology Banner (1)](https://github.com/Yah-Mo1/yah-mo1/assets/90518489/0aaec8b2-5566-4903-9dad-dbe7ba7e8ca5)
 
 <h1 align="center">Hi 👋, I'm Yahya Mohamed</h1>
 <h3 align="center">An aspiring Software Engineer.</h3>
