@@ -1,4 +1,5 @@
-![Black Modern Minimalist Simple Technology Banner (1)](https://github.com/Yah-Mo1/yah-mo1/assets/90518489/0aaec8b2-5566-4903-9dad-dbe7ba7e8ca5)
+![Black Minimal Motivation Quote LinkedIn Banner (1)](https://github.com/user-attachments/assets/813dd88e-39a3-4147-a3ed-532a65557e36)
+
 
 <h1 align="center">Hi 👋, I'm Yahya Mohamed</h1>
 <h3 align="center">DevOps/Cloud Engineer.</h3>
