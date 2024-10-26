@@ -1,7 +1,7 @@
 ![Black Modern Minimalist Simple Technology Banner (1)](https://github.com/Yah-Mo1/yah-mo1/assets/90518489/0aaec8b2-5566-4903-9dad-dbe7ba7e8ca5)
 
 <h1 align="center">Hi 👋, I'm Yahya Mohamed</h1>
-<h3 align="center">An aspiring DevOps/Cloud Engineer.</h3>
+<h3 align="center">DevOps/Cloud Engineer.</h3>
 <img src="https://media3.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif?cid=ecf05e4704ih06m10sqraaebw45daq0im1zhcdbct7l7p24g&ep=v1_gifs_related&rid=giphy.gif&ct=g" align="right" width="400" alt="coding animated gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yah-mo1&label=Profile%20views&color=0e75b6&style=flat" alt="yah-mo1" /> </p>
 
