@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yah-Mo1?tab=repositories](https://github.com/Yah-Mo1?tab=repositories)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **yahyamohamed1231@outlook.com**
 
