@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [https://github.com/Yah-Mo1/tech-vault-solutions](https://github.com/Yah-Mo1/tech-vault-solutions)
 
-- 🌱 I’m currently learning **HTML,CSS,Javascript,Typescript,React.**
+- 🌱 I’m currently learning **Linux,Git,Networking,AWS.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yah-Mo1?tab=repositories](https://github.com/Yah-Mo1?tab=repositories)
 
